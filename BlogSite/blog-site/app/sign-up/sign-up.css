@@ -1,0 +1,5 @@
+.customShadow {
+    border-radius: 50px;
+box-shadow:  9px 9px 37px #606060,
+             -9px -9px 37px #ffffff;
+  }
